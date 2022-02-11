@@ -1,5 +1,5 @@
 {
-  "name": "echoserver",
+  "name": "game-connection-server",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,6 @@
   "dependencies": {
     "@types/express": "^4.17.13",
     "@types/node": "^16.11.11",
-    "express": "~4.16.1"
+    "express": "^4.17.2"
   }
 }
